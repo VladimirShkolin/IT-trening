@@ -1,4 +1,4 @@
 def name():
-  name = input()
-  renurn name
+  name = input('Input your name ')
+  return name
 name()
